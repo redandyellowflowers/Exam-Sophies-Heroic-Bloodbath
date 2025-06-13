@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: fef966734b18fa54c832289bf5d57c2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2956394636662087806
+    second: opperating bed_0
+  - first:
+      213: 9048680347519777775
+    second: opperating bed_1
+  - first:
+      213: -1651602261739989690
+    second: opperating bed_2
+  - first:
+      213: -2849997311644844168
+    second: opperating bed_3
+  - first:
+      213: -4408432083122215065
+    second: opperating bed_4
+  - first:
+      213: 1998642347298332926
+    second: opperating bed_5
+  - first:
+      213: 5566385989809750163
+    second: opperating bed_6
+  - first:
+      213: 469130920782873797
+    second: opperating bed_7
+  - first:
+      213: 5367857759360787064
+    second: opperating bed_8
+  - first:
+      213: -7612899201040303633
+    second: opperating bed_9
+  - first:
+      213: -8553608478676358663
+    second: opperating bed_10
+  - first:
+      213: 4652978764203020448
+    second: opperating bed_11
+  - first:
+      213: 6672144205754973322
+    second: opperating bed_12
+  - first:
+      213: 944868215955104313
+    second: opperating bed_13
+  - first:
+      213: 7041122120055521183
+    second: opperating bed_14
+  - first:
+      213: 5931248257421068700
+    second: opperating bed_15
+  - first:
+      213: -6875985220083609538
+    second: opperating bed_16
+  - first:
+      213: -5190495411510898791
+    second: opperating bed_17
+  - first:
+      213: 7779753510851425737
+    second: opperating bed_18
+  - first:
+      213: -8108110272074751195
+    second: opperating bed_19
+  - first:
+      213: -3265720490809796532
+    second: opperating bed_20
+  - first:
+      213: 3669486902043163227
+    second: opperating bed_21
+  - first:
+      213: -2780684130773897757
+    second: opperating bed_22
+  - first:
+      213: -548637503118068743
+    second: opperating bed_23
+  - first:
+      213: 411351178437048156
+    second: opperating bed_24
+  - first:
+      213: 1873825324810642615
+    second: opperating bed_25
+  - first:
+      213: 7289700878359004495
+    second: opperating bed_26
+  - first:
+      213: 1419170542842388051
+    second: opperating bed_27
+  - first:
+      213: 801943033747222230
+    second: opperating bed_28
+  - first:
+      213: -7845626554645650333
+    second: opperating bed_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: opperating bed_0
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2987
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702d162249370920800000000000000
+      internalID: 2956394636662087806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_1
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2949
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb79f785de539d70800000000000000
+      internalID: 9048680347519777775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_2
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 2957
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64591c65e745419e0800000000000000
+      internalID: -1651602261739989690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_3
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 2963
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f37948b86c278d0800000000000000
+      internalID: -2849997311644844168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_4
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2927
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767a015906a12d2c0800000000000000
+      internalID: -4408432083122215065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_5
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2829
+        width: 71
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef025c720aa9cbb10800000000000000
+      internalID: 1998642347298332926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_6
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2938
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3904255d096cf3d40800000000000000
+      internalID: 5566385989809750163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_7
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2905
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c44a6e3610b28600800000000000000
+      internalID: 469130920782873797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_8
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 2914
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872268721367e7a40800000000000000
+      internalID: 5367857759360787064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_9
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 2891
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe93323f28c895690800000000000000
+      internalID: -7612899201040303633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_10
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 2866
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e9b8586a7b4980800000000000000
+      internalID: -8553608478676358663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_11
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 2831
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0d1c39883b29040800000000000000
+      internalID: 4652978764203020448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_12
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 2756
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cb43afdc7389c50800000000000000
+      internalID: 6672144205754973322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 105
+        width: 1398
+        height: 2648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932af83e2a8dc1d00800000000000000
+      internalID: 944868215955104313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_14
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 2747
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ffd02434717b160800000000000000
+      internalID: 7041122120055521183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_15
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2670
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99cc327dd6005250800000000000000
+      internalID: 5931248257421068700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_16
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2645
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3094147fd79390a0800000000000000
+      internalID: -6875985220083609538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_17
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2652
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f09947ce7a7f7b0800000000000000
+      internalID: -5190495411510898791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_18
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2619
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5b566699c37fb60800000000000000
+      internalID: 7779753510851425737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_19
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2590
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e9498aa43a7f80800000000000000
+      internalID: -8108110272074751195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_20
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2556
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4851912484dda2d0800000000000000
+      internalID: -3265720490809796532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_21
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2475
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a3b3845e2ace230800000000000000
+      internalID: 3669486902043163227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_22
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2461
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ede7a804860969d0800000000000000
+      internalID: -2780684130773897757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_23
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2181
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3b0340919d268f0800000000000000
+      internalID: -548637503118068743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_24
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2164
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57bda4a7b965b500800000000000000
+      internalID: 411351178437048156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_25
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2132
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b42878743a210a10800000000000000
+      internalID: 1873825324810642615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_26
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 2006
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45017d83583a2560800000000000000
+      internalID: 7289700878359004495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_27
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 100
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e91d1f618e1b310800000000000000
+      internalID: 1419170542842388051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 75
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de2a98b0f2112b00800000000000000
+      internalID: 801943033747222230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opperating bed_29
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36469f9673cbe1390800000000000000
+      internalID: -7845626554645650333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      opperating bed_0: 2956394636662087806
+      opperating bed_1: 9048680347519777775
+      opperating bed_10: -8553608478676358663
+      opperating bed_11: 4652978764203020448
+      opperating bed_12: 6672144205754973322
+      opperating bed_13: 944868215955104313
+      opperating bed_14: 7041122120055521183
+      opperating bed_15: 5931248257421068700
+      opperating bed_16: -6875985220083609538
+      opperating bed_17: -5190495411510898791
+      opperating bed_18: 7779753510851425737
+      opperating bed_19: -8108110272074751195
+      opperating bed_2: -1651602261739989690
+      opperating bed_20: -3265720490809796532
+      opperating bed_21: 3669486902043163227
+      opperating bed_22: -2780684130773897757
+      opperating bed_23: -548637503118068743
+      opperating bed_24: 411351178437048156
+      opperating bed_25: 1873825324810642615
+      opperating bed_26: 7289700878359004495
+      opperating bed_27: 1419170542842388051
+      opperating bed_28: 801943033747222230
+      opperating bed_29: -7845626554645650333
+      opperating bed_3: -2849997311644844168
+      opperating bed_4: -4408432083122215065
+      opperating bed_5: 1998642347298332926
+      opperating bed_6: 5566385989809750163
+      opperating bed_7: 469130920782873797
+      opperating bed_8: 5367857759360787064
+      opperating bed_9: -7612899201040303633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

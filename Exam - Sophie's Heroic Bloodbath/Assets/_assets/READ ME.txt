@@ -1,0 +1,6 @@
+1) For the camera shake, I used the "EZ Camera Shake" asset as it provided the effect that couldn't be achieved using the unity animator, or my own scripting of it, for which I lack the knowhow to do. *All other scripts were written "in-house".
+
+
+Reference
+
+EZ Camera Shake. Road Turtle Games. n.d.. [Unity Asset - camera shake script]. https://github.com/andersonaddo/EZ-Camera-Shake-Unity. Accessed on 14 May 2025.

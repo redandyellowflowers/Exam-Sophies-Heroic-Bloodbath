@@ -1,0 +1,6019 @@
+fileFormatVersion: 2
+guid: 11fdea10f62490a41b12833addf6eb9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2928311961966190960
+    second: medical table_0
+  - first:
+      213: 6457283563632339443
+    second: medical table_1
+  - first:
+      213: -3764639494200909303
+    second: medical table_2
+  - first:
+      213: -161330602733031157
+    second: medical table_3
+  - first:
+      213: 2616144802550198913
+    second: medical table_4
+  - first:
+      213: -3048976526897515903
+    second: medical table_5
+  - first:
+      213: -1592597882283125430
+    second: medical table_6
+  - first:
+      213: 1777377453614203058
+    second: medical table_7
+  - first:
+      213: 3917260412791808569
+    second: medical table_8
+  - first:
+      213: -7468035305771900633
+    second: medical table_9
+  - first:
+      213: 6223107138106074443
+    second: medical table_10
+  - first:
+      213: -7208992772341884926
+    second: medical table_11
+  - first:
+      213: 551233279394067095
+    second: medical table_12
+  - first:
+      213: -5745016400701205388
+    second: medical table_13
+  - first:
+      213: -1834801409364897234
+    second: medical table_14
+  - first:
+      213: -6600041354140187758
+    second: medical table_15
+  - first:
+      213: 8915863268052050176
+    second: medical table_16
+  - first:
+      213: -6367508957941450891
+    second: medical table_17
+  - first:
+      213: -2421366884702190153
+    second: medical table_18
+  - first:
+      213: -8239218268175269902
+    second: medical table_19
+  - first:
+      213: 4537573431594367138
+    second: medical table_20
+  - first:
+      213: 291527035551181886
+    second: medical table_21
+  - first:
+      213: -3711794171392270389
+    second: medical table_22
+  - first:
+      213: 3382871719691648270
+    second: medical table_23
+  - first:
+      213: 4195177612469215252
+    second: medical table_24
+  - first:
+      213: 2196972506438346323
+    second: medical table_25
+  - first:
+      213: 2242014670083826641
+    second: medical table_26
+  - first:
+      213: -5519694828313633144
+    second: medical table_27
+  - first:
+      213: 2621752648594824709
+    second: medical table_28
+  - first:
+      213: 4123112822701108326
+    second: medical table_29
+  - first:
+      213: 5032606757380221309
+    second: medical table_30
+  - first:
+      213: -4263602521156106121
+    second: medical table_31
+  - first:
+      213: -5311500001842956046
+    second: medical table_32
+  - first:
+      213: -2428341964045239327
+    second: medical table_33
+  - first:
+      213: 7953880406258008650
+    second: medical table_34
+  - first:
+      213: 4140060187858653880
+    second: medical table_35
+  - first:
+      213: -7908937667775435657
+    second: medical table_36
+  - first:
+      213: -1904245344561212284
+    second: medical table_37
+  - first:
+      213: -9032904407192221403
+    second: medical table_38
+  - first:
+      213: -6763755773294700455
+    second: medical table_39
+  - first:
+      213: -3333374990893622453
+    second: medical table_40
+  - first:
+      213: 4781307981762069138
+    second: medical table_41
+  - first:
+      213: 9101141160148775187
+    second: medical table_42
+  - first:
+      213: 4266460009742089792
+    second: medical table_43
+  - first:
+      213: 2198694952200653327
+    second: medical table_44
+  - first:
+      213: -5234743658199668468
+    second: medical table_45
+  - first:
+      213: -4959650986284296835
+    second: medical table_46
+  - first:
+      213: -3577576855121391534
+    second: medical table_47
+  - first:
+      213: 273103470931832687
+    second: medical table_48
+  - first:
+      213: 3007318525907334783
+    second: medical table_49
+  - first:
+      213: 4900287045918953254
+    second: medical table_50
+  - first:
+      213: 8137771742243788432
+    second: medical table_51
+  - first:
+      213: -4367980620881791106
+    second: medical table_52
+  - first:
+      213: -9178744747457011629
+    second: medical table_53
+  - first:
+      213: -7732380475348546670
+    second: medical table_54
+  - first:
+      213: 6195076993903012389
+    second: medical table_55
+  - first:
+      213: -6788282698715417528
+    second: medical table_56
+  - first:
+      213: 4534925467174573391
+    second: medical table_57
+  - first:
+      213: -1738063960031570769
+    second: medical table_58
+  - first:
+      213: 6817575624352476195
+    second: medical table_59
+  - first:
+      213: 3483278900432259446
+    second: medical table_60
+  - first:
+      213: -785015133108770444
+    second: medical table_61
+  - first:
+      213: -6804183793061031089
+    second: medical table_62
+  - first:
+      213: -2074378839635290935
+    second: medical table_63
+  - first:
+      213: 1415604039840371967
+    second: medical table_64
+  - first:
+      213: -5075651347816460138
+    second: medical table_65
+  - first:
+      213: 8786789350627177883
+    second: medical table_66
+  - first:
+      213: 7780729990474191447
+    second: medical table_67
+  - first:
+      213: 2225366270852404221
+    second: medical table_68
+  - first:
+      213: -5202852761028656209
+    second: medical table_69
+  - first:
+      213: -7683580713238187491
+    second: medical table_70
+  - first:
+      213: 1056090813096811096
+    second: medical table_71
+  - first:
+      213: -2546189735519556229
+    second: medical table_72
+  - first:
+      213: 4162197258364610381
+    second: medical table_73
+  - first:
+      213: 1044391487604754743
+    second: medical table_74
+  - first:
+      213: 8227582973283906343
+    second: medical table_75
+  - first:
+      213: 1262165091178673907
+    second: medical table_76
+  - first:
+      213: -2237126234392477235
+    second: medical table_77
+  - first:
+      213: 5931433780000083776
+    second: medical table_78
+  - first:
+      213: 6003960918543125903
+    second: medical table_79
+  - first:
+      213: 4133621704238660025
+    second: medical table_80
+  - first:
+      213: -5463184444774337132
+    second: medical table_81
+  - first:
+      213: -6490062646888275663
+    second: medical table_82
+  - first:
+      213: -3844687617307471162
+    second: medical table_83
+  - first:
+      213: 7078299276702662772
+    second: medical table_84
+  - first:
+      213: 7451009637821349786
+    second: medical table_85
+  - first:
+      213: -7453167578357378177
+    second: medical table_86
+  - first:
+      213: 102707434053991503
+    second: medical table_87
+  - first:
+      213: 1464359805636795555
+    second: medical table_88
+  - first:
+      213: 2770855575002771031
+    second: medical table_89
+  - first:
+      213: -8517494820640361866
+    second: medical table_90
+  - first:
+      213: -4111353967533085441
+    second: medical table_91
+  - first:
+      213: -5604556950268261931
+    second: medical table_92
+  - first:
+      213: -7650524120578305837
+    second: medical table_93
+  - first:
+      213: -3240935299365997527
+    second: medical table_94
+  - first:
+      213: 8685355129408530901
+    second: medical table_95
+  - first:
+      213: 4173862136086407326
+    second: medical table_96
+  - first:
+      213: 2400457553221939995
+    second: medical table_97
+  - first:
+      213: -7018656701678936028
+    second: medical table_98
+  - first:
+      213: 7606810843335091167
+    second: medical table_99
+  - first:
+      213: -1262241385935894356
+    second: medical table_100
+  - first:
+      213: -6976984944175364294
+    second: medical table_101
+  - first:
+      213: -3258038988520484592
+    second: medical table_102
+  - first:
+      213: -5715282247021728201
+    second: medical table_103
+  - first:
+      213: -2114607912394246727
+    second: medical table_104
+  - first:
+      213: 5782935674792727049
+    second: medical table_105
+  - first:
+      213: -8721291389610967251
+    second: medical table_106
+  - first:
+      213: 8313705906980807376
+    second: medical table_107
+  - first:
+      213: -2840860095721192423
+    second: medical table_108
+  - first:
+      213: -7448182749792006614
+    second: medical table_109
+  - first:
+      213: 6491833350952958026
+    second: medical table_110
+  - first:
+      213: -8938822722794546110
+    second: medical table_111
+  - first:
+      213: 442848439064274299
+    second: medical table_112
+  - first:
+      213: -6856205685783558673
+    second: medical table_113
+  - first:
+      213: 4855645187354172484
+    second: medical table_114
+  - first:
+      213: -3731859031944756258
+    second: medical table_115
+  - first:
+      213: -313721516312731266
+    second: medical table_116
+  - first:
+      213: 5146826120859386316
+    second: medical table_117
+  - first:
+      213: 8094165545996869437
+    second: medical table_118
+  - first:
+      213: 6310434355643387681
+    second: medical table_119
+  - first:
+      213: 3829125508287659425
+    second: medical table_120
+  - first:
+      213: 524328075167574134
+    second: medical table_121
+  - first:
+      213: 2911259368208184473
+    second: medical table_122
+  - first:
+      213: 2071475892399033291
+    second: medical table_123
+  - first:
+      213: 5588569735396050202
+    second: medical table_124
+  - first:
+      213: 7640895046708000212
+    second: medical table_125
+  - first:
+      213: 6287583420913332483
+    second: medical table_126
+  - first:
+      213: 430297934062024806
+    second: medical table_127
+  - first:
+      213: 2062897548782989196
+    second: medical table_128
+  - first:
+      213: -7095260787492025573
+    second: medical table_129
+  - first:
+      213: -3640438235061429893
+    second: medical table_130
+  - first:
+      213: 8077582854923299194
+    second: medical table_131
+  - first:
+      213: -1689604631598689530
+    second: medical table_132
+  - first:
+      213: -689389702416762478
+    second: medical table_133
+  - first:
+      213: -1928651470752875584
+    second: medical table_134
+  - first:
+      213: -840288646345227016
+    second: medical table_135
+  - first:
+      213: 6417639358845072673
+    second: medical table_136
+  - first:
+      213: 8919484056174475515
+    second: medical table_137
+  - first:
+      213: 6686598208337840347
+    second: medical table_138
+  - first:
+      213: 8718300160693540525
+    second: medical table_139
+  - first:
+      213: 1633268515223378535
+    second: medical table_140
+  - first:
+      213: 8438297180966819298
+    second: medical table_141
+  - first:
+      213: 6581032708389233555
+    second: medical table_142
+  - first:
+      213: -8357575724846235753
+    second: medical table_143
+  - first:
+      213: -2545768090793954785
+    second: medical table_144
+  - first:
+      213: 4860225092006432202
+    second: medical table_145
+  - first:
+      213: -327223659320972502
+    second: medical table_146
+  - first:
+      213: -454547306776060004
+    second: medical table_147
+  - first:
+      213: 6149493829327923929
+    second: medical table_148
+  - first:
+      213: -976634734637106607
+    second: medical table_149
+  - first:
+      213: 8645671766869493186
+    second: medical table_150
+  - first:
+      213: -6136345773666506289
+    second: medical table_151
+  - first:
+      213: 1553698862638326479
+    second: medical table_152
+  - first:
+      213: -1144340134434623843
+    second: medical table_153
+  - first:
+      213: -3238406028622216440
+    second: medical table_154
+  - first:
+      213: 3742518821684162327
+    second: medical table_155
+  - first:
+      213: -1379630863583956849
+    second: medical table_156
+  - first:
+      213: 475733134003713063
+    second: medical table_157
+  - first:
+      213: 2249603029273892114
+    second: medical table_158
+  - first:
+      213: -3624107527754530400
+    second: medical table_159
+  - first:
+      213: 4821382588501904682
+    second: medical table_160
+  - first:
+      213: 5682887851549603414
+    second: medical table_161
+  - first:
+      213: -2774603439811731749
+    second: medical table_162
+  - first:
+      213: 6642887527458462867
+    second: medical table_163
+  - first:
+      213: -2936355577314431207
+    second: medical table_164
+  - first:
+      213: -8542383981720126304
+    second: medical table_165
+  - first:
+      213: 7711701515019453754
+    second: medical table_166
+  - first:
+      213: 8858318408642208915
+    second: medical table_167
+  - first:
+      213: 6585096757873271216
+    second: medical table_168
+  - first:
+      213: 750848827628063062
+    second: medical table_169
+  - first:
+      213: 6212999015316462997
+    second: medical table_170
+  - first:
+      213: -2374097144659630349
+    second: medical table_171
+  - first:
+      213: 757870979617198591
+    second: medical table_172
+  - first:
+      213: 1563742463831475966
+    second: medical table_173
+  - first:
+      213: 5239747195574416309
+    second: medical table_174
+  - first:
+      213: -370602796529254902
+    second: medical table_175
+  - first:
+      213: 6260579119141431047
+    second: medical table_176
+  - first:
+      213: -8029418077957433618
+    second: medical table_177
+  - first:
+      213: 42437911046821045
+    second: medical table_178
+  - first:
+      213: -7664738149474000353
+    second: medical table_179
+  - first:
+      213: 6326173337737129402
+    second: medical table_180
+  - first:
+      213: 6356937341224609218
+    second: medical table_181
+  - first:
+      213: -5794951692748685537
+    second: medical table_182
+  - first:
+      213: -3524864665536009212
+    second: medical table_183
+  - first:
+      213: 2390793654817266166
+    second: medical table_184
+  - first:
+      213: -3421442445337652875
+    second: medical table_185
+  - first:
+      213: 9026854984791949466
+    second: medical table_186
+  - first:
+      213: -9172047358209956044
+    second: medical table_187
+  - first:
+      213: 109607845747076333
+    second: medical table_188
+  - first:
+      213: 3560694951356283630
+    second: medical table_189
+  - first:
+      213: 3546649528504219327
+    second: medical table_190
+  - first:
+      213: 6199867431613363050
+    second: medical table_191
+  - first:
+      213: -6567818769040581227
+    second: medical table_192
+  - first:
+      213: -6603611708238543536
+    second: medical table_193
+  - first:
+      213: -1764593131028528171
+    second: medical table_194
+  - first:
+      213: 792823162988987226
+    second: medical table_195
+  - first:
+      213: -432864980560054306
+    second: medical table_196
+  - first:
+      213: 5760685819166126318
+    second: medical table_197
+  - first:
+      213: -2809580651251880727
+    second: medical table_198
+  - first:
+      213: 3235766480760016343
+    second: medical table_199
+  - first:
+      213: -1588453619948488261
+    second: medical table_200
+  - first:
+      213: -737187722986790205
+    second: medical table_201
+  - first:
+      213: 7561886441417544066
+    second: medical table_202
+  - first:
+      213: 4352518738784183981
+    second: medical table_203
+  - first:
+      213: 2478646011889809868
+    second: medical table_204
+  - first:
+      213: 6076177327153491082
+    second: medical table_205
+  - first:
+      213: -5659639015598878199
+    second: medical table_206
+  - first:
+      213: -3241452345237644332
+    second: medical table_207
+  - first:
+      213: 3572075243803951803
+    second: medical table_208
+  - first:
+      213: -2716945220684028868
+    second: medical table_209
+  - first:
+      213: -7582826140356184611
+    second: medical table_210
+  - first:
+      213: -1376831269198474364
+    second: medical table_211
+  - first:
+      213: -333459666659928875
+    second: medical table_212
+  - first:
+      213: -9156592873352537753
+    second: medical table_213
+  - first:
+      213: 179547474285403509
+    second: medical table_214
+  - first:
+      213: -8785897874965300446
+    second: medical table_215
+  - first:
+      213: -8676535153578176784
+    second: medical table_216
+  - first:
+      213: -6087072284628951904
+    second: medical table_217
+  - first:
+      213: 2093043805408017821
+    second: medical table_218
+  - first:
+      213: -5673929067051093145
+    second: medical table_219
+  - first:
+      213: 6659943759786461451
+    second: medical table_220
+  - first:
+      213: 459330598727771126
+    second: medical table_221
+  - first:
+      213: -8613353860469894510
+    second: medical table_222
+  - first:
+      213: 882534939819843934
+    second: medical table_223
+  - first:
+      213: 7334017020886810731
+    second: medical table_224
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medical table_0
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2988
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071a58ce63473a820800000000000000
+      internalID: 2928311961966190960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2977
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f926406031ec9950800000000000000
+      internalID: 6457283563632339443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2958
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902afb0735051cbc0800000000000000
+      internalID: -3764639494200909303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2960
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b2bceba6d2cdf0800000000000000
+      internalID: -161330602733031157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_4
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 2964
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1823df446d96e4420800000000000000
+      internalID: 2616144802550198913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_5
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2942
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182f4c1c00cdfa5d0800000000000000
+      internalID: -3048976526897515903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_6
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2939
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45997cf9a4f5e9e0800000000000000
+      internalID: -1592597882283125430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_7
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2944
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0867a80638aa810800000000000000
+      internalID: 1777377453614203058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_8
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2943
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932e7254797ec5630800000000000000
+      internalID: 3917260412791808569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2915
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721e36de4753c5890800000000000000
+      internalID: -7468035305771900633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2929
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45a20e78faec5650800000000000000
+      internalID: 6223107138106074443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_11
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2901
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081438b44384fb90800000000000000
+      internalID: -7208992772341884926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 2925
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79238ae3fbf56a700800000000000000
+      internalID: 551233279394067095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2917
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474596f950a9540b0800000000000000
+      internalID: -5745016400701205388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_14
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2924
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e225b61e6d97986e0800000000000000
+      internalID: -1834801409364897234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_15
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2930
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293069f5b51f764a0800000000000000
+      internalID: -6600041354140187758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_16
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2920
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001223e67628bbb70800000000000000
+      internalID: 8915863268052050176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_17
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 2915
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57738c9d65012a7a0800000000000000
+      internalID: -6367508957941450891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2909
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b58e66b5a3956ed0800000000000000
+      internalID: -2421366884702190153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2855
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fff08a63aa68ad80800000000000000
+      internalID: -8239218268175269902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2913
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8be64bef2b8fe30800000000000000
+      internalID: 4537573431594367138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_21
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2892
+        width: 87
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c63745b46bb0400800000000000000
+      internalID: 291527035551181886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_22
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2907
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf5cc6fdde0d7cc0800000000000000
+      internalID: -3711794171392270389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_23
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2912
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d7fe4e7ef52fe20800000000000000
+      internalID: 3382871719691648270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_24
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 2904
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41026e0cfc3483a30800000000000000
+      internalID: 4195177612469215252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_25
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 2909
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ae83cad63d7e10800000000000000
+      internalID: 2196972506438346323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_26
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 2911
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3af87b67c3d1f10800000000000000
+      internalID: 2242014670083826641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_27
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2914
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e1ec95cca1663b0800000000000000
+      internalID: -5519694828313633144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_28
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 2912
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e1f6ca426526420800000000000000
+      internalID: 2621752648594824709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2861
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c25fd544d383930800000000000000
+      internalID: 4123112822701108326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2903
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e0e39e2967d540800000000000000
+      internalID: 5032606757380221309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2899
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778c707b814a4d4c0800000000000000
+      internalID: -4263602521156106121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2900
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8f9adc3e2c946b0800000000000000
+      internalID: -5311500001842956046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_33
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2892
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebb8ef79dbcc4ed0800000000000000
+      internalID: -2428341964045239327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_34
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2903
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42c2f8861cd16e60800000000000000
+      internalID: 7953880406258008650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_35
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2896
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b25d0e4ec2747930800000000000000
+      internalID: 4140060187858653880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_36
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 2900
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ce981381fcd3290800000000000000
+      internalID: -7908937667775435657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_37
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2898
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484dc30c2f2c295e0800000000000000
+      internalID: -1904245344561212284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_38
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 2895
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5294f3fcc4da4a280800000000000000
+      internalID: -9032904407192221403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_39
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2846
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9589549c5ff4222a0800000000000000
+      internalID: -6763755773294700455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2890
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b5d945b197db1d0800000000000000
+      internalID: -3333374990893622453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_41
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2884
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2920ba6e64e9a5240800000000000000
+      internalID: 4781307981762069138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_42
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2881
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ba5d4aafbd4e70800000000000000
+      internalID: 9101141160148775187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_43
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2894
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e361136c2853b30800000000000000
+      internalID: 4266460009742089792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_44
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 2891
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a4d5be865538e10800000000000000
+      internalID: 2198694952200653327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_45
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2883
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09a7c2b0647a57b0800000000000000
+      internalID: -5234743658199668468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_46
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 2882
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75db9094b7cb2bb0800000000000000
+      internalID: -4959650986284296835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2874
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25094d91ec4e95ec0800000000000000
+      internalID: -3577576855121391534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_48
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2866
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f61dbe8224ac300800000000000000
+      internalID: 273103470931832687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_49
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2855
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76782f04442cb920800000000000000
+      internalID: 3007318525907334783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_50
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 2869
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f827dfa11510440800000000000000
+      internalID: 4900287045918953254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2870
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09617a7a84c2fe070800000000000000
+      internalID: 8137771742243788432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_52
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 2868
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77fc8294c0d163c0800000000000000
+      internalID: -4367980620881791106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_53
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2869
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350a7d3884c8e9080800000000000000
+      internalID: -9178744747457011629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_54
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 2881
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b0fa2fce011b490800000000000000
+      internalID: -7732380475348546670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_55
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2873
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aa8c9f3b559f550800000000000000
+      internalID: 6195076993903012389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_56
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 2876
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8443324f9dc2bc1a0800000000000000
+      internalID: -6788282698715417528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_57
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2878
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4510d17faa4fee30800000000000000
+      internalID: 4534925467174573391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_58
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2879
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4d869790821e7e0800000000000000
+      internalID: -1738063960031570769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_59
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 2878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c24e6c8e4ec9e50800000000000000
+      internalID: 6817575624352476195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_60
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2856
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679c0e964b7175030800000000000000
+      internalID: 3483278900432259446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_61
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 2864
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479eeb745e01b15f0800000000000000
+      internalID: -785015133108770444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_62
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 2867
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43902ce3eea291a0800000000000000
+      internalID: -6804183793061031089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_63
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 2880
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c493f59f635633e0800000000000000
+      internalID: -2074378839635290935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_64
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 2875
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff41b41cf5c35a310800000000000000
+      internalID: 1415604039840371967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_65
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2870
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690daa9bdf9af89b0800000000000000
+      internalID: -5075651347816460138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_66
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2869
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9571582c52f0f970800000000000000
+      internalID: 8786789350627177883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_67
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2866
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7525177c3b4bafb60800000000000000
+      internalID: 7780729990474191447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_68
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2873
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df31b4535d612ee10800000000000000
+      internalID: 2225366270852404221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_69
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 2861
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa30a30daf0cbc7b0800000000000000
+      internalID: -5202852761028656209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_70
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2856
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d123568fc007e5590800000000000000
+      internalID: -7683580713238187491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_71
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2867
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5035cffcf7ae00800000000000000
+      internalID: 1056090813096811096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_72
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2868
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d6c930ded1aacd0800000000000000
+      internalID: -2546189735519556229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_73
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2866
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d476dedaa5813c930800000000000000
+      internalID: 4162197258364610381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_74
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2854
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398f19468c6e7e00800000000000000
+      internalID: 1044391487604754743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_75
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2867
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723b3a26f1f3e2270800000000000000
+      internalID: 8227582973283906343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_76
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2866
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f67a93967c148110800000000000000
+      internalID: 1262165091178673907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_77
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 2868
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc14459ea8124f0e0800000000000000
+      internalID: -2237126234392477235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_78
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 2863
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f48a9c89fa05250800000000000000
+      internalID: 5931433780000083776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_79
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2855
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d471325aa525350800000000000000
+      internalID: 6003960918543125903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_80
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2852
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b97df40a039d5930800000000000000
+      internalID: 4133621704238660025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_81
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2853
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49539c251bede24b0800000000000000
+      internalID: -5463184444774337132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_82
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2854
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1316132986aaee5a0800000000000000
+      internalID: -6490062646888275663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_83
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2860
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c29b0a6bfce4aac0800000000000000
+      internalID: -3844687617307471162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_84
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2857
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47044c190bb2b3260800000000000000
+      internalID: 7078299276702662772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_85
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 2849
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f7a58d9cd476760800000000000000
+      internalID: 7451009637821349786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_86
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 2860
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73dc887397019890800000000000000
+      internalID: -7453167578357378177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_87
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2861
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c749afdd3ec6100800000000000000
+      internalID: 102707434053991503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_88
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 2856
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac57561c73725410800000000000000
+      internalID: 1464359805636795555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_89
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2854
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e63fff67e047620800000000000000
+      internalID: 2770855575002771031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_90
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 2864
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67270879697cbc980800000000000000
+      internalID: -8517494820640361866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_91
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2858
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc2c43795981f6c0800000000000000
+      internalID: -4111353967533085441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_92
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 2862
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d940dfd52d9832b0800000000000000
+      internalID: -5604556950268261931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2108
+        width: 3383
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d05f57b8d0e3d590800000000000000
+      internalID: -7650524120578305837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_94
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2854
+        width: 97
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924f3453482e503d0800000000000000
+      internalID: -3240935299365997527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_95
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2851
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d923842974988870800000000000000
+      internalID: 8685355129408530901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_96
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2851
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9822eaaf798ce930800000000000000
+      internalID: 4173862136086407326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_97
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 2839
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13723e2d63205120800000000000000
+      internalID: 2400457553221939995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_98
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 2559
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42023009ae8b89e90800000000000000
+      internalID: -7018656701678936028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_99
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2531
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e39ec822d09960800000000000000
+      internalID: 7606810843335091167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2418
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca88e7aa52e9b7ee0800000000000000
+      internalID: -1262241385935894356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_101
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 2246
+        width: 22
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37cd2fa825cc2f90800000000000000
+      internalID: -6976984944175364294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2121
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0111dd04dce19c2d0800000000000000
+      internalID: -3258038988520484592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_103
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2108
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e6c23c31d3fa0b0800000000000000
+      internalID: -5715282247021728201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2097
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b28eae4767a2e0800000000000000
+      internalID: -2114607912394246727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_105
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2121
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90254fe5b5d114050800000000000000
+      internalID: 5782935674792727049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_106
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2120
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fb09340bfb7f680800000000000000
+      internalID: -8721291389610967251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_107
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2122
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d268a87977306370800000000000000
+      internalID: 8313705906980807376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_108
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2117
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914c4f16bcc3398d0800000000000000
+      internalID: -2840860095721192423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_109
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2121
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8470504db2a890800000000000000
+      internalID: -7448182749792006614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_110
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2101
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48b5989900a71a50800000000000000
+      internalID: 6491833350952958026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_111
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 2115
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c14a1f71ce2f380800000000000000
+      internalID: -8938822722794546110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_112
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2116
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7523cb1f40552600800000000000000
+      internalID: 442848439064274299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_113
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2110
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe58bd7214dd9d0a0800000000000000
+      internalID: -6856205685783558673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_114
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 2123
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c94935297b26340800000000000000
+      internalID: 4855645187354172484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_115
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2099
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed389119bf5c53cc0800000000000000
+      internalID: -3731859031944756258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_116
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 2119
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7168cd61ff65abf0800000000000000
+      internalID: -313721516312731266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_117
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 2116
+        width: 58
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1868e76133d6740800000000000000
+      internalID: 5146826120859386316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_118
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 2118
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f595aeda0445070800000000000000
+      internalID: 8094165545996869437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_119
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f8b82cc9a239750800000000000000
+      internalID: 6310434355643387681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_120
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2107
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad7fd9bc59c32530800000000000000
+      internalID: 3829125508287659425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_121
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2026
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a02a3b99c64700800000000000000
+      internalID: 524328075167574134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_122
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b31b88fed66820800000000000000
+      internalID: 2911259368208184473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_123
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 2107
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbca37595c5fbc10800000000000000
+      internalID: 2071475892399033291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_124
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c7c890969e8d40800000000000000
+      internalID: 5588569735396050202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_125
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2102
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d57211df89e90a60800000000000000
+      internalID: 7640895046708000212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_126
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2098
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301bc2beecbf14750800000000000000
+      internalID: 6287583420913332483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_127
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668f953f0b9b8f500800000000000000
+      internalID: 430297934062024806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_128
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2091
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8feb331462e0ac10800000000000000
+      internalID: 2062897548782989196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_129
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2090
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b87c4f7e1988d90800000000000000
+      internalID: -7095260787492025573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_130
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2098
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79d96c86b09a7dc0800000000000000
+      internalID: -3640438235061429893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_131
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2085
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a792d774fc6591070800000000000000
+      internalID: 8077582854923299194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_132
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2079
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60394ba1a815d88e0800000000000000
+      internalID: -1689604631598689530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_133
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2054
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f2abd7bbce66f0800000000000000
+      internalID: -689389702416762478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_134
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 2057
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7d3ea4bd0c35e0800000000000000
+      internalID: -1928651470752875584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_135
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2065
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f48ccd9de1b654f0800000000000000
+      internalID: -840288646345227016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_136
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 2071
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125b688aef8001950800000000000000
+      internalID: 6417639358845072673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_137
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2071
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf83a0cdd7f58cb70800000000000000
+      internalID: 8919484056174475515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_138
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2070
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88db3b4a19bcc50800000000000000
+      internalID: 6686598208337840347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_139
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2063
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da69e5bfdcf9df870800000000000000
+      internalID: 8718300160693540525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_140
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2051
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a18b8af098aa610800000000000000
+      internalID: 1633268515223378535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_141
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2022
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e515bcf39ada1570800000000000000
+      internalID: 8438297180966819298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_142
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 2025
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39364c66166845b50800000000000000
+      internalID: 6581032708389233555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_143
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 2011
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fbc19982de30c80800000000000000
+      internalID: -8357575724846235753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_144
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 2010
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12b3b3d86d9bacd0800000000000000
+      internalID: -2545768090793954785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_145
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1225
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdcb7978fcf27340800000000000000
+      internalID: 4860225092006432202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_146
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1226
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be118c0d7757bf0800000000000000
+      internalID: -327223659320972502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_147
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1208
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f900ef1af11b9f0800000000000000
+      internalID: -454547306776060004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_148
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da2c8d6e04675550800000000000000
+      internalID: 6149493829327923929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_149
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1190
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ab5ae12eb4272f0800000000000000
+      internalID: -976634734637106607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_150
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1194
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c541ec4aa89bf770800000000000000
+      internalID: 8645671766869493186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_151
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1193
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc963a5d70257daa0800000000000000
+      internalID: -6136345773666506289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_152
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1166
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc26c7b32e8df8510800000000000000
+      internalID: 1553698862638326479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_153
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1158
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2dc0f5bc7e10f0800000000000000
+      internalID: -1144340134434623843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_154
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8034d71ffdede03d0800000000000000
+      internalID: -3238406028622216440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_155
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1156
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fa2b32a0910f330800000000000000
+      internalID: 3742518821684162327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_156
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1159
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80b9e60a019adce0800000000000000
+      internalID: -1379630863583956849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_157
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1166
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724bc2cc3c42a9600800000000000000
+      internalID: 475733134003713063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_158
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 1165
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21553854902383f10800000000000000
+      internalID: 2249603029273892114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_159
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 1160
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a14f54a76594bdc0800000000000000
+      internalID: -3624107527754530400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 384
+        width: 3376
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dc8e16bedf8e240800000000000000
+      internalID: 4821382588501904682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_161
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1134
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6563ff9446cadde40800000000000000
+      internalID: 5682887851549603414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_162
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bded1793fd0ae79d0800000000000000
+      internalID: -2774603439811731749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_163
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd80db207403c50800000000000000
+      internalID: 6642887527458462867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fafefe828ff37d0800000000000000
+      internalID: -2936355577314431207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_165
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 963
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acb592370b537980800000000000000
+      internalID: -8542383981720126304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_166
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 959
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3583986ba7750b60800000000000000
+      internalID: 7711701515019453754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3942c66c8a11fea70800000000000000
+      internalID: 8858318408642208915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_168
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 870
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ec98ac96f26b50800000000000000
+      internalID: 6585096757873271216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_169
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 853
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6590ac2d70d8b6a00800000000000000
+      internalID: 750848827628063062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_170
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 817
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d1ac1cfa1093650800000000000000
+      internalID: 6212999015316462997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f62b46b9338d0fd0800000000000000
+      internalID: -2374097144659630349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_172
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 678
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff119adf3af748a00800000000000000
+      internalID: 757870979617198591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef68edc5c7783b510800000000000000
+      internalID: 1563742463831475966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_174
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 635
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ff01205257b840800000000000000
+      internalID: 5239747195574416309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7b1858ba5bdaf0800000000000000
+      internalID: -370602796529254902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70727a4f98b02e650800000000000000
+      internalID: 6260579119141431047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_177
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 517
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee65f3ebcc6c19090800000000000000
+      internalID: -8029418077957433618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_178
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 456
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b494f42e05c69000800000000000000
+      internalID: 42437911046821045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_179
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 411
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12a738334161a590800000000000000
+      internalID: -7664738149474000353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_180
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 408
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd6e5712251bc750800000000000000
+      internalID: 6326173337737129402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_181
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 408
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5eb13d4d0683850800000000000000
+      internalID: 6356937341224609218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_182
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 402
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f7a2f6322349fa0800000000000000
+      internalID: -5794951692748685537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_183
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 411
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c6661234a251fc0800000000000000
+      internalID: -3524864665536009212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_184
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 407
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f914ae792ecd2120800000000000000
+      internalID: 2390793654817266166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_185
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 412
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571943a39389480d0800000000000000
+      internalID: -3421442445337652875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_186
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 381
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a900d7748c4d54d70800000000000000
+      internalID: 9026854984791949466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_187
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 408
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e5d6f58756b080800000000000000
+      internalID: -9172047358209956044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_188
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 410
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deca95641c7658100800000000000000
+      internalID: 109607845747076333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_189
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 410
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea3e1161312a6130800000000000000
+      internalID: 3560694951356283630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_190
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 408
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6fc4984fa383130800000000000000
+      internalID: 3546649528504219327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_191
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 413
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63f3dba49a5a0650800000000000000
+      internalID: 6199867431613363050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_192
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 382
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d513a90ab6ad4a0800000000000000
+      internalID: -6567818769040581227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_193
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 407
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055c4d783224b54a0800000000000000
+      internalID: -6603611708238543536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_194
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 410
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d343f385e7e287e0800000000000000
+      internalID: -1764593131028528171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_195
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 410
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5309a7577ca00b00800000000000000
+      internalID: 792823162988987226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_196
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 407
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f206f7972ef9f0800000000000000
+      internalID: -432864980560054306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_197
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 401
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0f60a2b3112ff40800000000000000
+      internalID: 5760685819166126318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_198
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 413
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2252984d5209d0800000000000000
+      internalID: -2809580651251880727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_199
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 396
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd01dd6870c7ec20800000000000000
+      internalID: 3235766480760016343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_200
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 396
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb979c049dda4f9e0800000000000000
+      internalID: -1588453619948488261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_201
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 399
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2e796fbabf4c5f0800000000000000
+      internalID: -737187722986790205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_202
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 392
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281198467a731f860800000000000000
+      internalID: 7561886441417544066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_203
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 393
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da666777bb0476c30800000000000000
+      internalID: 4352518738784183981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_204
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 398
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc971a65a6be56220800000000000000
+      internalID: 2478646011889809868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_205
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 403
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c2449061be25450800000000000000
+      internalID: 6076177327153491082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_206
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 390
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90299462d4ce471b0800000000000000
+      internalID: -5659639015598878199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_207
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 384
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbd0c5144c0403d0800000000000000
+      internalID: -3241452345237644332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_208
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 382
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2c6e1328f829130800000000000000
+      internalID: 3572075243803951803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_209
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 391
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34eeee77b87b4ad0800000000000000
+      internalID: -2716945220684028868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_210
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 377
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5f5860dc364c690800000000000000
+      internalID: -7582826140356184611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_211
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 390
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48356c3614384ece0800000000000000
+      internalID: -1376831269198474364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_212
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 393
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d490dd23305f5bf0800000000000000
+      internalID: -333459666659928875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_213
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 366
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d2fe9b4f3de080800000000000000
+      internalID: -9156592873352537753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_214
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 372
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d99110a71ed7200800000000000000
+      internalID: 179547474285403509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_215
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 375
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b75d1be68321680800000000000000
+      internalID: -8785897874965300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_216
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 376
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe88c18f31c69780800000000000000
+      internalID: -8676535153578176784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_217
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 376
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd0900200668ba0800000000000000
+      internalID: -6087072284628951904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_218
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 371
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d3da8604cfb0d10800000000000000
+      internalID: 2093043805408017821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_219
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 367
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763f7a543972241b0800000000000000
+      internalID: -5673929067051093145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_220
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 366
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09c62a409fdc6c50800000000000000
+      internalID: 6659943759786461451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_221
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 346
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3e2a3febedf5600800000000000000
+      internalID: 459330598727771126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_222
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 345
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d3f5ac48377880800000000000000
+      internalID: -8613353860469894510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_223
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 352
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5125d51ad46f3c00800000000000000
+      internalID: 882534939819843934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical table_224
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 310
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6080aa8f99a7c560800000000000000
+      internalID: 7334017020886810731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medical table_0: 2928311961966190960
+      medical table_1: 6457283563632339443
+      medical table_10: 6223107138106074443
+      medical table_100: -1262241385935894356
+      medical table_101: -6976984944175364294
+      medical table_102: -3258038988520484592
+      medical table_103: -5715282247021728201
+      medical table_104: -2114607912394246727
+      medical table_105: 5782935674792727049
+      medical table_106: -8721291389610967251
+      medical table_107: 8313705906980807376
+      medical table_108: -2840860095721192423
+      medical table_109: -7448182749792006614
+      medical table_11: -7208992772341884926
+      medical table_110: 6491833350952958026
+      medical table_111: -8938822722794546110
+      medical table_112: 442848439064274299
+      medical table_113: -6856205685783558673
+      medical table_114: 4855645187354172484
+      medical table_115: -3731859031944756258
+      medical table_116: -313721516312731266
+      medical table_117: 5146826120859386316
+      medical table_118: 8094165545996869437
+      medical table_119: 6310434355643387681
+      medical table_12: 551233279394067095
+      medical table_120: 3829125508287659425
+      medical table_121: 524328075167574134
+      medical table_122: 2911259368208184473
+      medical table_123: 2071475892399033291
+      medical table_124: 5588569735396050202
+      medical table_125: 7640895046708000212
+      medical table_126: 6287583420913332483
+      medical table_127: 430297934062024806
+      medical table_128: 2062897548782989196
+      medical table_129: -7095260787492025573
+      medical table_13: -5745016400701205388
+      medical table_130: -3640438235061429893
+      medical table_131: 8077582854923299194
+      medical table_132: -1689604631598689530
+      medical table_133: -689389702416762478
+      medical table_134: -1928651470752875584
+      medical table_135: -840288646345227016
+      medical table_136: 6417639358845072673
+      medical table_137: 8919484056174475515
+      medical table_138: 6686598208337840347
+      medical table_139: 8718300160693540525
+      medical table_14: -1834801409364897234
+      medical table_140: 1633268515223378535
+      medical table_141: 8438297180966819298
+      medical table_142: 6581032708389233555
+      medical table_143: -8357575724846235753
+      medical table_144: -2545768090793954785
+      medical table_145: 4860225092006432202
+      medical table_146: -327223659320972502
+      medical table_147: -454547306776060004
+      medical table_148: 6149493829327923929
+      medical table_149: -976634734637106607
+      medical table_15: -6600041354140187758
+      medical table_150: 8645671766869493186
+      medical table_151: -6136345773666506289
+      medical table_152: 1553698862638326479
+      medical table_153: -1144340134434623843
+      medical table_154: -3238406028622216440
+      medical table_155: 3742518821684162327
+      medical table_156: -1379630863583956849
+      medical table_157: 475733134003713063
+      medical table_158: 2249603029273892114
+      medical table_159: -3624107527754530400
+      medical table_16: 8915863268052050176
+      medical table_160: 4821382588501904682
+      medical table_161: 5682887851549603414
+      medical table_162: -2774603439811731749
+      medical table_163: 6642887527458462867
+      medical table_164: -2936355577314431207
+      medical table_165: -8542383981720126304
+      medical table_166: 7711701515019453754
+      medical table_167: 8858318408642208915
+      medical table_168: 6585096757873271216
+      medical table_169: 750848827628063062
+      medical table_17: -6367508957941450891
+      medical table_170: 6212999015316462997
+      medical table_171: -2374097144659630349
+      medical table_172: 757870979617198591
+      medical table_173: 1563742463831475966
+      medical table_174: 5239747195574416309
+      medical table_175: -370602796529254902
+      medical table_176: 6260579119141431047
+      medical table_177: -8029418077957433618
+      medical table_178: 42437911046821045
+      medical table_179: -7664738149474000353
+      medical table_18: -2421366884702190153
+      medical table_180: 6326173337737129402
+      medical table_181: 6356937341224609218
+      medical table_182: -5794951692748685537
+      medical table_183: -3524864665536009212
+      medical table_184: 2390793654817266166
+      medical table_185: -3421442445337652875
+      medical table_186: 9026854984791949466
+      medical table_187: -9172047358209956044
+      medical table_188: 109607845747076333
+      medical table_189: 3560694951356283630
+      medical table_19: -8239218268175269902
+      medical table_190: 3546649528504219327
+      medical table_191: 6199867431613363050
+      medical table_192: -6567818769040581227
+      medical table_193: -6603611708238543536
+      medical table_194: -1764593131028528171
+      medical table_195: 792823162988987226
+      medical table_196: -432864980560054306
+      medical table_197: 5760685819166126318
+      medical table_198: -2809580651251880727
+      medical table_199: 3235766480760016343
+      medical table_2: -3764639494200909303
+      medical table_20: 4537573431594367138
+      medical table_200: -1588453619948488261
+      medical table_201: -737187722986790205
+      medical table_202: 7561886441417544066
+      medical table_203: 4352518738784183981
+      medical table_204: 2478646011889809868
+      medical table_205: 6076177327153491082
+      medical table_206: -5659639015598878199
+      medical table_207: -3241452345237644332
+      medical table_208: 3572075243803951803
+      medical table_209: -2716945220684028868
+      medical table_21: 291527035551181886
+      medical table_210: -7582826140356184611
+      medical table_211: -1376831269198474364
+      medical table_212: -333459666659928875
+      medical table_213: -9156592873352537753
+      medical table_214: 179547474285403509
+      medical table_215: -8785897874965300446
+      medical table_216: -8676535153578176784
+      medical table_217: -6087072284628951904
+      medical table_218: 2093043805408017821
+      medical table_219: -5673929067051093145
+      medical table_22: -3711794171392270389
+      medical table_220: 6659943759786461451
+      medical table_221: 459330598727771126
+      medical table_222: -8613353860469894510
+      medical table_223: 882534939819843934
+      medical table_224: 7334017020886810731
+      medical table_23: 3382871719691648270
+      medical table_24: 4195177612469215252
+      medical table_25: 2196972506438346323
+      medical table_26: 2242014670083826641
+      medical table_27: -5519694828313633144
+      medical table_28: 2621752648594824709
+      medical table_29: 4123112822701108326
+      medical table_3: -161330602733031157
+      medical table_30: 5032606757380221309
+      medical table_31: -4263602521156106121
+      medical table_32: -5311500001842956046
+      medical table_33: -2428341964045239327
+      medical table_34: 7953880406258008650
+      medical table_35: 4140060187858653880
+      medical table_36: -7908937667775435657
+      medical table_37: -1904245344561212284
+      medical table_38: -9032904407192221403
+      medical table_39: -6763755773294700455
+      medical table_4: 2616144802550198913
+      medical table_40: -3333374990893622453
+      medical table_41: 4781307981762069138
+      medical table_42: 9101141160148775187
+      medical table_43: 4266460009742089792
+      medical table_44: 2198694952200653327
+      medical table_45: -5234743658199668468
+      medical table_46: -4959650986284296835
+      medical table_47: -3577576855121391534
+      medical table_48: 273103470931832687
+      medical table_49: 3007318525907334783
+      medical table_5: -3048976526897515903
+      medical table_50: 4900287045918953254
+      medical table_51: 8137771742243788432
+      medical table_52: -4367980620881791106
+      medical table_53: -9178744747457011629
+      medical table_54: -7732380475348546670
+      medical table_55: 6195076993903012389
+      medical table_56: -6788282698715417528
+      medical table_57: 4534925467174573391
+      medical table_58: -1738063960031570769
+      medical table_59: 6817575624352476195
+      medical table_6: -1592597882283125430
+      medical table_60: 3483278900432259446
+      medical table_61: -785015133108770444
+      medical table_62: -6804183793061031089
+      medical table_63: -2074378839635290935
+      medical table_64: 1415604039840371967
+      medical table_65: -5075651347816460138
+      medical table_66: 8786789350627177883
+      medical table_67: 7780729990474191447
+      medical table_68: 2225366270852404221
+      medical table_69: -5202852761028656209
+      medical table_7: 1777377453614203058
+      medical table_70: -7683580713238187491
+      medical table_71: 1056090813096811096
+      medical table_72: -2546189735519556229
+      medical table_73: 4162197258364610381
+      medical table_74: 1044391487604754743
+      medical table_75: 8227582973283906343
+      medical table_76: 1262165091178673907
+      medical table_77: -2237126234392477235
+      medical table_78: 5931433780000083776
+      medical table_79: 6003960918543125903
+      medical table_8: 3917260412791808569
+      medical table_80: 4133621704238660025
+      medical table_81: -5463184444774337132
+      medical table_82: -6490062646888275663
+      medical table_83: -3844687617307471162
+      medical table_84: 7078299276702662772
+      medical table_85: 7451009637821349786
+      medical table_86: -7453167578357378177
+      medical table_87: 102707434053991503
+      medical table_88: 1464359805636795555
+      medical table_89: 2770855575002771031
+      medical table_9: -7468035305771900633
+      medical table_90: -8517494820640361866
+      medical table_91: -4111353967533085441
+      medical table_92: -5604556950268261931
+      medical table_93: -7650524120578305837
+      medical table_94: -3240935299365997527
+      medical table_95: 8685355129408530901
+      medical table_96: 4173862136086407326
+      medical table_97: 2400457553221939995
+      medical table_98: -7018656701678936028
+      medical table_99: 7606810843335091167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

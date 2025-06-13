@@ -1,0 +1,16 @@
+1) External assets have been used for all the audio in the game.
+
+
+Reference
+
+8Bit SFX Pack | 100 pack. Jowdas. n.d.. [GitHub Asset - different 8Bit sounds]. https://horror-studio.itch.io/8bit-sfx-pack-100-pack. Accessed on 14 May 2025.
+
+Free Menu Sound Pack (UI Sounds) V2!. Noah Kuehne. n.d.. [GitHub Asset - menu sounds]. https://noahkuehne.itch.io/free-menu-sound-pack-ui-sounds-v2. Accessed on 14 May 2025.
+
+Essential Game Music Pack. BellKalengar. n.d.. [Unity Asset - loopable themed music]. https://assetstore.unity.com/packages/audio/music/essential-game-music-pack-313118. Accessed on 14 May 2025.
+
+FREE FPS SFX Pack. LMGLolo. n.d.. [GitHub Asset - fps sound effects]. https://lmglolo.itch.io/free-fps-sfx. Accessed on 18 May 2025.
+
+Free UI Click Sound Effects Pack. SwishSwoosh. n.d.. [Unity Asset - ui input sound effects]. https://assetstore.unity.com/packages/audio/sound-fx/free-ui-click-sound-pack-244644. Accessed on 28 May 2025.
+
+dustyroom-static_kit. dustyroom. n.d.. [GitHub Asset - static loopable sounds]. https://dustyroom.itch.io/static-kit. Accessed on 28 May 2025.

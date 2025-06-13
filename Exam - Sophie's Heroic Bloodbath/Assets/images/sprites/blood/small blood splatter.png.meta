@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 51b170a80dcfe8d41b52100d934c5f7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -289755166452860086
+    second: small blood splatter_0
+  - first:
+      213: 1481078576592655923
+    second: small blood splatter_1
+  - first:
+      213: 7620759742412539901
+    second: small blood splatter_2
+  - first:
+      213: -938459913089025650
+    second: small blood splatter_3
+  - first:
+      213: -1283543331540039396
+    second: small blood splatter_4
+  - first:
+      213: 4080240472868754650
+    second: small blood splatter_5
+  - first:
+      213: 8959108265654377519
+    second: small blood splatter_6
+  - first:
+      213: -5688021672442143275
+    second: small blood splatter_7
+  - first:
+      213: 234616440455445646
+    second: small blood splatter_8
+  - first:
+      213: -8724139342687212160
+    second: small blood splatter_9
+  - first:
+      213: -3118050900023280582
+    second: small blood splatter_10
+  - first:
+      213: 1546815451603352301
+    second: small blood splatter_11
+  - first:
+      213: -2324560097181253710
+    second: small blood splatter_12
+  - first:
+      213: 4694988125194044718
+    second: small blood splatter_13
+  - first:
+      213: -9077198079093926892
+    second: small blood splatter_14
+  - first:
+      213: 7787876460256608419
+    second: small blood splatter_15
+  - first:
+      213: 4732401739467962035
+    second: small blood splatter_16
+  - first:
+      213: -7101418679833164424
+    second: small blood splatter_17
+  - first:
+      213: 428977139347954940
+    second: small blood splatter_18
+  - first:
+      213: -5630199486208281189
+    second: small blood splatter_19
+  - first:
+      213: -8571368111218689776
+    second: small blood splatter_20
+  - first:
+      213: -9140194547523962733
+    second: small blood splatter_21
+  - first:
+      213: -7688408825262629102
+    second: small blood splatter_22
+  - first:
+      213: -3016227643824457725
+    second: small blood splatter_23
+  - first:
+      213: 5586603854994047101
+    second: small blood splatter_24
+  - first:
+      213: 4715889654462073009
+    second: small blood splatter_25
+  - first:
+      213: -4268820672502719908
+    second: small blood splatter_26
+  - first:
+      213: 1888821600843326607
+    second: small blood splatter_27
+  - first:
+      213: 4531657130997820750
+    second: small blood splatter_28
+  - first:
+      213: -2799257277517648854
+    second: small blood splatter_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: small blood splatter_0
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1829
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b3eb716359afbf0800000000000000
+      internalID: -289755166452860086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_1
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1829
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3361f3a4e19dd8410800000000000000
+      internalID: 1481078576592655923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1776
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7c815fb9062c960800000000000000
+      internalID: 7620759742412539901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1765
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8972646eabe9f2f0800000000000000
+      internalID: -938459913089025650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_4
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1747
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c190cb5f320ff2ee0800000000000000
+      internalID: -1283543331540039396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1733
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4938f871def9830800000000000000
+      internalID: 4080240472868754650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_6
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1721
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c589e0085255c70800000000000000
+      internalID: 8959108265654377519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_7
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1735
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dddc53ec661011b0800000000000000
+      internalID: -5688021672442143275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_8
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1741
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c30d7d866814300800000000000000
+      internalID: 234616440455445646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_9
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1734
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d6e148d71ade680800000000000000
+      internalID: -8724139342687212160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 1791
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c76800a357ab4d0800000000000000
+      internalID: -3118050900023280582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_11
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1721
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea37e53574677510800000000000000
+      internalID: 1546815451603352301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_12
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1704
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb67c58e08dbfd0800000000000000
+      internalID: -2324560097181253710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_13
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1698
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e254ed223d2f72140800000000000000
+      internalID: 4694988125194044718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4149fbba070570280800000000000000
+      internalID: -9077198079093926892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1173
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0c830f068141c60800000000000000
+      internalID: 7787876460256608419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_16
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1117
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6bd670f4edca140800000000000000
+      internalID: 4732401739467962035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1082
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875883be551b27d90800000000000000
+      internalID: -7101418679833164424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1002
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc19977f6804f500800000000000000
+      internalID: 428977139347954940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_19
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 962
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95f7f9b5638dd1b0800000000000000
+      internalID: -5630199486208281189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 928
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f2bbad126c0980800000000000000
+      internalID: -8571368111218689776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 789
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983fd06c71872180800000000000000
+      internalID: -9140194547523962733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_22
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 760
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f1e3a88e84d4590800000000000000
+      internalID: -7688408825262629102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 733
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308312840f43426d0800000000000000
+      internalID: -3016227643824457725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 748
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d708fb56b9a978d40800000000000000
+      internalID: 5586603854994047101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 710
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c626a7a4327140800000000000000
+      internalID: 4715889654462073009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_26
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 685
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a91ad273a12c4c0800000000000000
+      internalID: -4268820672502719908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 636
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84e9521d31763a10800000000000000
+      internalID: 1888821600843326607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_28
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 638
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dadf0a62ea3ee30800000000000000
+      internalID: 4531657130997820750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small blood splatter_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 523
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c22a2565a0729d0800000000000000
+      internalID: -2799257277517648854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      small blood splatter_0: -289755166452860086
+      small blood splatter_1: 1481078576592655923
+      small blood splatter_10: -3118050900023280582
+      small blood splatter_11: 1546815451603352301
+      small blood splatter_12: -2324560097181253710
+      small blood splatter_13: 4694988125194044718
+      small blood splatter_14: -9077198079093926892
+      small blood splatter_15: 7787876460256608419
+      small blood splatter_16: 4732401739467962035
+      small blood splatter_17: -7101418679833164424
+      small blood splatter_18: 428977139347954940
+      small blood splatter_19: -5630199486208281189
+      small blood splatter_2: 7620759742412539901
+      small blood splatter_20: -8571368111218689776
+      small blood splatter_21: -9140194547523962733
+      small blood splatter_22: -7688408825262629102
+      small blood splatter_23: -3016227643824457725
+      small blood splatter_24: 5586603854994047101
+      small blood splatter_25: 4715889654462073009
+      small blood splatter_26: -4268820672502719908
+      small blood splatter_27: 1888821600843326607
+      small blood splatter_28: 4531657130997820750
+      small blood splatter_29: -2799257277517648854
+      small blood splatter_3: -938459913089025650
+      small blood splatter_4: -1283543331540039396
+      small blood splatter_5: 4080240472868754650
+      small blood splatter_6: 8959108265654377519
+      small blood splatter_7: -5688021672442143275
+      small blood splatter_8: 234616440455445646
+      small blood splatter_9: -8724139342687212160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
